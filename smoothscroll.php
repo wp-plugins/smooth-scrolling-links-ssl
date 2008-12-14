@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Smooth scroll 
+Plugin Name: Smooth Scroll Links [SSL]
 Plugin URI: http://www.thechetan.com/smoothscrolllinks/
 Description: Make smooth scrolling up-down navigation links on your blog.
 Version: 1.0

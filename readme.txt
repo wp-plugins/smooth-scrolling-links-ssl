@@ -1,4 +1,4 @@
-===Smooth Scroll Links===
+===Smooth Scroll Links [SSL]===
 Contributors: cchetanonline
 Donate link: http://www.thechetan.com/smoothscrolllinks/#donate
 Tags: post, posts, links, plugin, page, url, smooth, effects, javascript
