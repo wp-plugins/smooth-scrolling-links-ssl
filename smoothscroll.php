@@ -26,7 +26,7 @@ function smooth_scroll_head()
 {
 ?>
 <!-- Added by Wordpress Smooth scroll 1.0 -->
-<script type="text/javascript" src="<?php bloginfo('url'); ?>/wp-content/plugins/smoothscroll/smoothscroll.js"></script>
+<script type="text/javascript" src="<?php bloginfo('url'); ?>/wp-content/plugins/smooth-scrolling-links-ssl/smoothscroll.js"></script>
 <!-- End of Wordpress Smooth scroll 1.0 -->
 <?php
 }
@@ -85,7 +85,7 @@ function smooth_scroll_options_page()
         <th scope="row" style="text-align:right; vertical-align:top;">
         <td>
 		<h3>How to add your own SSL [Smooth Scroll Links]</h3>
-		<p>Yes,its very easy to add your own links, check out this post on <a href="http://www.thechetan.com/smoothscrolllinks/#howto">how to add smooth scrolling links in Wordpress</a>.</p>		
+		<p>Yes,its very easy to add your own links, check out this post on <a href="http://www.thechetan.com/smoothscrolllinks/#howto" target="_blank">how to add smooth scrolling links in Wordpress</a>.</p>		
 		</td>
         </tr>
 		<tr>
