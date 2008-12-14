@@ -95,11 +95,13 @@ function smooth_scroll_options_page()
 		<p>Why don't you <a href="/wp-admin/post-new.php">write a post</a> about <a href="http://www.thechetan.com/smoothscrolllinks/" target="_blank">Smooth Scroll Links</a> ?</p>
 		<h3>Problems, Questions, Suggestions ?</h3>
 		<p>Catch me on <a href="http://www.thechetan.com/smoothscrolllinks/" target="_blank">SSL Homepage</a></p>
+		<h3>Also see</h3>
+		<p>A plugin to protect your blog content from COPY PASTE <a href="http://www.thechetan.com/wp-copyprotect/" target="_blank">WP-CopyProtect</a></p>
         </td>
-        </tr>
+        </tr>	
 		</table>
 		<h3>Thank you</h3>
-		Plug in developed by <a href="http://www.thechetan.com/" target="_blank">Chetan Gole</a>.
+		Plug in developed by <a href="http://www.thechetan.com/" target="_blank">Chetan Gole</a>. <small>can i have a place at your <a href="/wp-admin/link-add.php">blogroll</a> ?</small>
 		</fieldset>
 	</form>
 	</table>
