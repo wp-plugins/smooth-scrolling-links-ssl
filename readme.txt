@@ -13,16 +13,17 @@ This plugin will give special smooth scroll effect to your **BACK TO TOP**, **TO
 This plugin will give special smooth scroll effect to your **BACK TO TOP**, **TOP TO BOTTOM** like links. 
 It also has capacity to add such links in your Wordpress blog, if they are not present.
 
-You can create your own Smooth scrolling links in your blog.
+You can [create your own Smooth scrolling links](http://www.thechetan.com/smoothscrolllinks/) in your blog.
 
 By [Chetan Gole](http://www.thechetan.com/).
 
 == Installation ==
 
-1. Upload the entire content of plugin archive to your /wp-content/plugins/ directory, so that everything will remain in a /wp-content/plugins/smooth-scrolling-links-ssl/ folder
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to **Settings** and then **Smooth Scroll Links [SSL]** to configure and enable the effect.
-4. Enjoy the UP and DOWN. :)
+1. Upload the entire content of plugin archive to your /wp-content/plugins/ directory, so that everything will remain in a /wp-content/plugins/smooth-scrolling-links-ssl/ folder 
+2. Remember: DO not change the folder name.
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Go to **Settings** and then **Smooth Scroll Links [SSL]** to configure and enable the effect.
+5. Enjoy the UP and DOWN. :)
 
 == Frequently Asked Questions ==
 
