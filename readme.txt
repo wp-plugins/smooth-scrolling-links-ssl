@@ -19,7 +19,7 @@ By [Chetan Gole](http://www.thechetan.com/).
 
 == Installation ==
 
-1. Upload the entire content of plugin archive to your /wp-content/plugins/ directory, so that everything will remain in a /wp-content/plugins/smoothscroll/ folder
+1. Upload the entire content of plugin archive to your /wp-content/plugins/ directory, so that everything will remain in a /wp-content/plugins/smooth-scrolling-links-ssl/ folder
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to **Settings** and then **Smooth Scroll Links [SSL]** to configure and enable the effect.
 4. Enjoy the UP and DOWN. :)
