@@ -25,18 +25,18 @@ GNU General Public License for more details: http://www.gnu.org/licenses/gpl.txt
 function smooth_scroll_head()
 {
 ?>
-<!-- Added by Wordpress Smooth scroll 1.0 -->
+<!-- Added by Wordpress Smooth Scroll Links 1.0 -->
 <script type="text/javascript" src="<?php bloginfo('url'); ?>/wp-content/plugins/smooth-scrolling-links-ssl/smoothscroll.js"></script>
-<!-- End of Wordpress Smooth scroll 1.0 -->
+<!-- End of Wordpress Smooth Scroll Links 1.0 -->
 <?php
 }
 
 function smooth_scroll_footer()
 {
 ?>
-<!-- Added by Wordpress Smooth scroll 1.0 -->
+<!-- Added by Wordpress Smooth Scroll Links 1.0 -->
 <small><a href="#header" title="Back to Top">Back to Top&nbsp;&uarr;</a></small>
-<!-- End of Wordpress Smooth scroll 1.0 -->
+<!-- End of Wordpress Smooth Scroll Links 1.0 -->
 <?php
 }
 
