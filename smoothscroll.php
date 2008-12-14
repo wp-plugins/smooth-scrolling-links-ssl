@@ -34,7 +34,9 @@ function smooth_scroll_head()
 function smooth_scroll_footer()
 {
 ?>
+<!-- Added by Wordpress Smooth scroll 1.0 -->
 <small><a href="#header" title="Back to Top">Back to Top&nbsp;&uarr;</a></small>
+<!-- End of Wordpress Smooth scroll 1.0 -->
 <?php
 }
 
