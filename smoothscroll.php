@@ -85,7 +85,7 @@ function smooth_scroll_options_page()
         <th scope="row" style="text-align:right; vertical-align:top;">
         <td>
 		<h3>How to add your own SSL [Smooth Scroll Links]</h3>
-		<p>Yes,its very easy to add your own links, check out this post on how to add smooth scrolling links in Wordpress.</p><small>(COMING SOON !)</small>		
+		<p>Yes,its very easy to add your own links, check out this post on <a href="http://www.thechetan.com/smoothscrolllinks/#howto">how to add smooth scrolling links in Wordpress</a>.</p>		
 		</td>
         </tr>
 		<tr>
