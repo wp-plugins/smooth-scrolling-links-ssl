@@ -1,10 +1,10 @@
 ===Smooth Scroll Links [SSL]===
 Contributors: cchetanonline
 Donate link: http://www.thechetan.com/smoothscrolllinks/#donate
-Tags: post, posts, links, plugin, page, url, smooth, effects, javascript
+Tags: post, posts, links, plugin, page, url, smooth, effects, javascript, design, scroll, look, looks, footer
 Requires at least: 2
-Tested up to: 2.7
-Stable tag: 1.0
+Tested up to: 2.9.1
+Stable tag: 1.1.0
 
 This plugin will give special smooth scroll effect to your **BACK TO TOP**, **TOP TO BOTTOM** like links. It also has capacity to add such links in your Wordpress blog, if they are not present.
 
@@ -13,7 +13,7 @@ This plugin will give special smooth scroll effect to your **BACK TO TOP**, **TO
 This plugin will give special smooth scroll effect to your **BACK TO TOP**, **TOP TO BOTTOM** like links. 
 It also has capacity to add such links in your Wordpress blog, if they are not present.
 
-You can [create your own Smooth scrolling links](http://www.thechetan.com/smoothscrolllinks/) in your blog.
+You can special [add smooth scroll effect](http://www.thechetan.com/smoothscrolllinks/) in your blog for page navigation links.
 
 By [Chetan Gole](http://www.thechetan.com/).
 
@@ -39,3 +39,8 @@ Catch me on [Smooth Scroll Links Homepage](http://www.thechetan.com/smoothscroll
 
 == Screenshots ==
 1. Configuration page
+
+
+== Change Log ==
+* ver : 1.1.0 : Blog url problem solved when installed in other than "root directory".
+* ver : 1.0.0 : SSL Launched.

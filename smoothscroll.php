@@ -3,13 +3,13 @@
 Plugin Name: Smooth Scroll Links [SSL]
 Plugin URI: http://www.thechetan.com/smoothscrolllinks/
 Description: Make smooth scrolling up-down navigation links on your blog.
-Version: 1.0
+Version: 1.1.0
 Author: Chetan Gole
-Author URI: http://www.thechetan.com/
+Author URI: http://chetangole.com/
 */
 
 /*
-Copyright 2008  Chetan Gole, IN  (http://www.thechetan.com)
+Copyright 2010  Chetan Gole, IN  (http://chetangole.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -25,18 +25,18 @@ GNU General Public License for more details: http://www.gnu.org/licenses/gpl.txt
 function smooth_scroll_head()
 {
 ?>
-<!-- Added by Wordpress Smooth Scroll Links 1.0 -->
-<script type="text/javascript" src="<?php bloginfo('url'); ?>/wp-content/plugins/smooth-scrolling-links-ssl/smoothscroll.js"></script>
-<!-- End of Wordpress Smooth Scroll Links 1.0 -->
+<!-- Added by Wordpress Smooth Scroll Links 1.1.0 -->
+<script type="text/javascript" src="<?php bloginfo('wpurl'); ?>/wp-content/plugins/smooth-scrolling-links-ssl/smoothscroll.js"></script>
+<!-- End of Wordpress Smooth Scroll Links 1.1.0 -->
 <?php
 }
 
 function smooth_scroll_footer()
 {
 ?>
-<!-- Added by Wordpress Smooth Scroll Links 1.0 -->
+<!-- Added by Wordpress Smooth Scroll Links 1.1.0 -->
 <small><a href="#header" title="Back to Top">Back to Top&nbsp;&uarr;</a></small>
-<!-- End of Wordpress Smooth Scroll Links 1.0 -->
+<!-- End of Wordpress Smooth Scroll Links 1.1.0 -->
 <?php
 }
 
@@ -52,7 +52,7 @@ function smooth_scroll_options_page()
 	?>
 	<div class="wrap">
 	
-	<h2>Smooth Scroll Links [SSL] Options</h2>
+	<h2>Smooth Scroll Links [SSL] Options</h2>ver 1.1.0
 	<form method="post" id="smooth_scroll_options">
 		<fieldset class="options">
 		<legend>Select proper options according to your needs.</legend>
@@ -103,7 +103,8 @@ function smooth_scroll_options_page()
         </tr>	
 		</table>
 		<h3>Thank you</h3>
-		Plug in developed by <a href="http://www.thechetan.com/" target="_blank">Chetan Gole</a>. <small>can i have a place at your <a href="/wp-admin/link-add.php">blogroll</a> ?</small>
+		Plug in developed by <a href="http://www.thechetan.com/" target="_blank">Chetan Gole</a>. <br />
+		<small>Follow me on Twitter <a href="http://twitter.com/Chetan_Gole" target="_blank">@Chetan_Gole</a></small>
 		</fieldset>
 	</form>
 	</table>

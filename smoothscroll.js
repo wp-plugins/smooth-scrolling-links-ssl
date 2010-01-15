@@ -5,7 +5,7 @@
    
    sil, http://www.kryogenix.org/
    
-   Wordpress Plug-in Smooth Scroll Links [SSL] by Chetan Gole [http://www.thechetan.com/]
+   Wordpress Plug-in Smooth Scroll Links [SSL] by Chetan Gole [http://chetangole.com/]
    
 */
 
