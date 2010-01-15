@@ -15,7 +15,7 @@ It also has capacity to add such links in your Wordpress blog, if they are not p
 
 You can special [add smooth scroll effect](http://www.thechetan.com/smoothscrolllinks/) in your blog for page navigation links.
 
-By [Chetan Gole](http://www.thechetan.com/).
+By [Chetan Gole](http://chetangole.com/).
 
 == Installation ==
 
