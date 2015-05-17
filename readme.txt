@@ -3,7 +3,7 @@ Contributors: cchetanonline
 Donate link: http://www.thechetan.com/smoothscrolllinks/#donate
 Tags: post, posts, links, plugin, page, url, smooth, effects, javascript, design, scroll, look, looks, footer
 Requires at least: 2
-Tested up to: 2.9.1
+Tested up to: 4.2
 Stable tag: 1.1.0
 
 This plugin will give special smooth scroll effect to your **BACK TO TOP**, **TOP TO BOTTOM** like links. It also has capacity to add such links in your Wordpress blog, if they are not present.
